@@ -1,0 +1,38 @@
+# These are some examples of commonly ignored file patterns.
+# You should customize this list as applicable to your project.
+# Learn more about .gitignore:
+#     https://www.atlassian.com/git/tutorials/saving-changes/gitignore
+
+#additional
+/site/
+/htmlcov/
+/coverage/
+/build/
+/dist/
+/*.egg-info/
+/env/
+/venv/
+MANIFEST
+coverage.*
+.DS_Store
+.project
+.pydevproject
+local.py
+logfile.log
+!.editorconfig
+!.gitignore
+!.travis.yml
+!.isort.cfg
+*.log*
+*.idea
+*.py[cod]
+__pycache__/
+env/
+venv/
+log/
+*.sh
+*.log
+/my_env/
+python_conn_test.py
+/.vscode/
+/.scannerwork/

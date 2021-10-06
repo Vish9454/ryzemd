@@ -1,0 +1,39 @@
+id,category,subcategory
+1,General,Fever
+2,General,Body Aches
+3,Skin,Rash
+4,Skin,Allergy
+5,Skin,Itching
+6,Eye,Pain
+7,Eye,Redness
+8,Eye,Itching
+9,Eye,Blur Vision
+10,Ear Nose Throat,Ear Pain
+11,Ear Nose Throat,Foreign Body
+12,Ear Nose Throat,Sour Throat
+13,Ear Nose Throat,Nasal Congestion
+14,Ear Nose Throat,Sinus Pain
+15,Abdomen,Nausea
+16,Abdomen,Vomitting
+17,Abdomen,Diarrhea
+18,Abdomen,Abdominal Pain
+19,Abdomen,Constipation
+20,Abdomen,Rectal Bleeding
+21,Urinary,Burning Pain
+22,Urinary,Blood Problem
+23,Female,Vaginal Bleeding
+24,Female,Others
+25,General Body,Backache
+26,General Body,Musclepain
+27,General Body,Jointpain
+28,Neurological,Headache
+29,Neurological,Dizziness
+30,Neurological,Passedout
+31,Neurological,One side weak
+32,Neurological,Change in speech
+33,Diabetes,Body Sugar
+34,Diabetes,Thirsty
+35,Diabetes,Urinating Frequently
+36,Mental Health,Anxiety
+37,Mental Health,Depression
+38,Mental Health,Suicidal Thoughts

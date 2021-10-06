@@ -1,0 +1,27 @@
+id,medicalhistory_name 
+1,diabetes
+2,chest pain or angina
+3,high blood pressure
+4,heart disease
+5,heart attack
+6,heart paipitations
+7,pacemaker
+8,headaches
+9,kidney problem
+10,pregnancy
+11,cancer
+12,osteoporosis
+13,bowel bladder abnormalities
+14,asthma
+15,breathing difficulties
+16,liver
+17,liver gallbladder problems
+18,smoking
+19,stroke_cva
+20,allergies
+21,seizures
+22,metal implants
+23,dizziness_fainting
+24,recent_fractures
+25,surgeries
+26,arthritis

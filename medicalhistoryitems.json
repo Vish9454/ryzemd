@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "medicalhistory_name": "diabetes"
+  },
+  {
+    "id": 2,
+    "medicalhistory_name": "chest pain or angina"
+  },
+  {
+    "id": 3,
+    "medicalhistory_name": "high blood pressure"
+  },
+  {
+    "id": 4,
+    "medicalhistory_name": "heart disease"
+  },
+  {
+    "id": 5,
+    "medicalhistory_name": "heart attack"
+  },
+  {
+    "id": 6,
+    "medicalhistory_name": "heart paipitations"
+  },
+  {
+    "id": 7,
+    "medicalhistory_name": "pacemaker"
+  },
+  {
+    "id": 8,
+    "medicalhistory_name": "headaches"
+  },
+  {
+    "id": 9,
+    "medicalhistory_name": "kidney problem"
+  },
+  {
+    "id": 10,
+    "medicalhistory_name": "pregnancy"
+  },
+  {
+    "id": 11,
+    "medicalhistory_name": "cancer"
+  },
+  {
+    "id": 12,
+    "medicalhistory_name": "osteoporosis"
+  },
+  {
+    "id": 13,
+    "medicalhistory_name": "bowel bladder abnormalities"
+  },
+  {
+    "id": 14,
+    "medicalhistory_name": "asthma"
+  },
+  {
+    "id": 15,
+    "medicalhistory_name": "breathing difficulties"
+  },
+  {
+    "id": 16,
+    "medicalhistory_name": "liver"
+  },
+  {
+    "id": 17,
+    "medicalhistory_name": "liver gallbladder problems"
+  },
+  {
+    "id": 18,
+    "medicalhistory_name": "smoking"
+  },
+  {
+    "id": 19,
+    "medicalhistory_name": "stroke_cva"
+  },
+  {
+    "id": 20,
+    "medicalhistory_name": "allergies"
+  },
+  {
+    "id": 21,
+    "medicalhistory_name": "seizures"
+  },
+  {
+    "id": 22,
+    "medicalhistory_name": "metal implants"
+  },
+  {
+    "id": 23,
+    "medicalhistory_name": "dizziness_fainting"
+  },
+  {
+    "id": 24,
+    "medicalhistory_name": "recent_fractures"
+  },
+  {
+    "id": 25,
+    "medicalhistory_name": "surgeries"
+  },
+  {
+    "id": 26,
+    "medicalhistory_name": "arthritis"
+  }
+]
