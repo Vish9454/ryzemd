@@ -82,3 +82,4 @@ Note:- Admin signup is restricted. To create an admin inform backend user
 
 Note:- visit start time will be in format as hh:00:00 or hh:30:00,
        visit end time can be any time
+       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
